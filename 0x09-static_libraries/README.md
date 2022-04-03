@@ -1,0 +1,3 @@
+Static Libraries in C
+
+A library is a file containing several object files that can be used as a single entity in a link or phase of a program. This is a sample projects from ALX of how a C library looks like......
